@@ -17,7 +17,7 @@ const ResponsiveUiWIthFlex = () => {
     </View>
   );
 };
-
+// style
 const styles = StyleSheet.create({
   main: {flex: 1},
   box1: {backgroundColor: 'green', flex: 3, flexDirection: 'row'},
