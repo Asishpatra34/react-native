@@ -21,7 +21,7 @@ import MyTouchableOpacity from './components/MyTouchableOpacity';
 const App = () => {
   return (
     <SafeAreaView style={{flex: 1}}>
-      <ResponsiveUiWIthFlex />
+      <MyTouchableOpacity />
     </SafeAreaView>
   );
 };
